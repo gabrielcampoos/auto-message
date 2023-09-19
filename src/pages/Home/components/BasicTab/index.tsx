@@ -5,7 +5,6 @@ import Tabs from '@mui/material/Tabs';
 import Typography from '@mui/material/Typography';
 import { useState } from 'react';
 import * as React from 'react';
-import { useNavigate } from 'react-router-dom';
 
 interface TabPanelProps {
 	children?: React.ReactNode;
